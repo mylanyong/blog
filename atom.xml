@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://mylanyong.github.io</id>
+    <id>https://blog.c8n36.xyz</id>
     <title>闲人blog</title>
-    <updated>2021-07-21T07:15:09.217Z</updated>
+    <updated>2021-07-21T07:20:53.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://mylanyong.github.io"/>
-    <link rel="self" href="https://mylanyong.github.io/atom.xml"/>
+    <link rel="alternate" href="https://blog.c8n36.xyz"/>
+    <link rel="self" href="https://blog.c8n36.xyz/atom.xml"/>
     <subtitle>一枚闲人</subtitle>
-    <logo>https://mylanyong.github.io/images/avatar.png</logo>
-    <icon>https://mylanyong.github.io/favicon.ico</icon>
+    <logo>https://blog.c8n36.xyz/images/avatar.png</logo>
+    <icon>https://blog.c8n36.xyz/favicon.ico</icon>
     <rights>All rights reserved 2021, 闲人blog</rights>
     <entry>
         <title type="html"><![CDATA[欢迎光临我的blog,logo在右下方]]></title>
-        <id>https://mylanyong.github.io/post/huan-ying-guang-lin-wo-de-blog/</id>
-        <link href="https://mylanyong.github.io/post/huan-ying-guang-lin-wo-de-blog/">
+        <id>https://blog.c8n36.xyz/post/huan-ying-guang-lin-wo-de-blog/</id>
+        <link href="https://blog.c8n36.xyz/post/huan-ying-guang-lin-wo-de-blog/">
         </link>
         <updated>2021-07-01T05:40:47.000Z</updated>
         <content type="html"><![CDATA[<p>这是一个闲人的blog,主要介绍个人的学习生活和各种技术<br>
@@ -22,8 +22,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://mylanyong.github.io/post/hello-gridea/</id>
-        <link href="https://mylanyong.github.io/post/hello-gridea/">
+        <id>https://blog.c8n36.xyz/post/hello-gridea/</id>
+        <link href="https://blog.c8n36.xyz/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
